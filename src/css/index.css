@@ -228,6 +228,7 @@ h4 {
     padding: 1.5em 2em;
     text-align: left;
     color: var(--clr-secondary);
+    line-height: 1.4;
 }
 
 .author {
