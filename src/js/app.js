@@ -1,5 +1,5 @@
 const app = function () {
-    const navButton = document.querySelector('.nav-btn');
+    const navButton = document.querySelector('.menu-btn');
     const navMenu = document.querySelector('#main-nav');
 
     const displayNavMenu = function () {
